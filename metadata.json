@@ -1,0 +1,6 @@
+{
+  "name": "ClearDose",
+  "description": "Daily medication dashboard, medicine schedule manager, adherence tracker, and Telegram Bot reminder companion with 1-hour snooze follow-ups.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
